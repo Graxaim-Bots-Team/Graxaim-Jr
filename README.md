@@ -17,6 +17,7 @@
 # Linguagem utilizada:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="115" height="115"/>
 
-# Professor:
+# Professores:
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/110566021?v=4" width=115><br><sub>Vítor Maziero Oliveira</sub>](https://github.com/vitor-m-o)
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/110566021?v=4" width=115><br><sub>João Holz Knapp</sub>](https://github.com/Jaozinnnnnn)
